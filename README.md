@@ -10,9 +10,9 @@ Thanks to the BMS devs and community members who helped along the way.
 There is a nontrivial amount of arcana required to rig up this whirlygig.
 This document was largely the output from:
 
-* https://www.bmsforum.org/forum/showthread.php?24564-REL-dedicated-server-for-Windows-with-no-GPU/
-* https://www.bmsforum.org/forum/showthread.php?14263-Dedicated-Server-Setup&p=199625&viewfull=1#post199625
-* https://www.bmsforum.org/forum/showthread.php?14032-Server-reverts-to-2d-map-on-it-s-own&p=195895&viewfull=1#post195895
+* https://www.benchmarksims.org/forum/showthread.php?24564-REL-dedicated-server-for-Windows-with-no-GPU/
+* https://www.benchmarksims.org/forum/showthread.php?14263-Dedicated-Server-Setup&p=199625&viewfull=1#post199625
+* https://www.benchmarksims.org/forum/showthread.php?14032-Server-reverts-to-2d-map-on-it-s-own&p=195895&viewfull=1#post195895
 
 Extra thanks to CobaltUK on discord for sharing some insights about the VeteranGaming BMS dedicated server.
 
@@ -57,7 +57,7 @@ Tested against BMS 4.33.3.
 * alternatively, change inbound policy to accept-all (do this for domain/private/public zones) (AWS security groups are in front of us, so why double up)
 
 * download / install any desired theaters as normal
-* fetch the server dlls: https://www.bmsforum.org/forum/showthread.php?24564-REL-dedicated-server-for-Windows-with-no-GPU
+* fetch the server dlls: https://www.benchmarksims.org/forum/showthread.php?24564-REL-dedicated-server-for-Windows-with-no-GPU
   * Copy all files to bin/x64
 * copy the [falcon bms.cfg] file to User\Config
 * copy the [atc.ini] file to your target theater's Campaign folder
