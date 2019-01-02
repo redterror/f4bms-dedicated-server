@@ -59,8 +59,8 @@ Tested against BMS 4.33.3.
 * download / install any desired theaters as normal
 * fetch the server dlls: https://www.benchmarksims.org/forum/showthread.php?24564-REL-dedicated-server-for-Windows-with-no-GPU
   * Copy all files to bin/x64
-* copy the [falcon bms.cfg] file to User\Config
-* copy the [atc.ini] file to your target theater's Campaign folder
+* copy the [falcon_bms.cfg](falcon%20bms.cfg) file to User\Config
+* copy the [atc.ini](atc.ini) file to your target theater's Campaign folder
   * KTO: `Data\Campaign\Save`
   * Other: `Data\<Campaign Name>\Campaign`
 * Verify that all graphics settings are dialed down in F4Patch
